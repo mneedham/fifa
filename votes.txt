@@ -1,0 +1,545 @@
+Role,Country,Voter,FirstPlace,SecondPlace,ThirdPlace
+Captain,Afghanistan,Amiri Islam,Messi Lionel,Cristiano Ronaldo,Ibrahimovic Zlatan
+Captain,Albania,Cana Lorik,Cristiano Ronaldo,Robben Arjen,Mueller Thomas
+Captain,Algeria,Bougherra Madjid,Cristiano Ronaldo,Robben Arjen,Benzema Karim
+Captain,American Samoa,Luvu Rafe Talalelei,Neymar,Robben Arjen,Cristiano Ronaldo
+Captain,Andorra,Sonejee Masand Oscar,Cristiano Ronaldo,Mueller Thomas,Kroos Toni
+Captain,Angola,Amaral Felisberto,Lahm Philipp,Cristiano Ronaldo,Neuer Manuel
+Captain,Anguilla,Liddie Ryan,Messi Lionel,Cristiano Ronaldo,Iniesta Andres
+Captain,Antigua and Barbuda,Griffith Quinton,Courtois Thibaut,Messi Lionel,Di Maria Angel
+Captain,Argentina,Messi Lionel,Di Maria Angel,Iniesta Andres,Mascherano Javier
+Captain,Armenia,Berezovskiy Roman,Lahm Philipp,Messi Lionel,Neuer Manuel
+Captain,Aruba,Breinburg Reinhard,Cristiano Ronaldo,Kroos Toni,Neymar
+Captain,Australia,Jedinak Mile,Cristiano Ronaldo,Kroos Toni,Toure Yaya
+Captain,Austria,Fuchs Christian,Cristiano Ronaldo,Robben Arjen,Neuer Manuel
+Captain,Azerbaijan,Sadigov Rashad,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Captain,Bahamas,Gavin Christie,Cristiano Ronaldo,Neymar,Robben Arjen
+Captain,Bahrain,Hasan Mohamed,Cristiano Ronaldo,Neymar,Ramos Sergio
+Captain,Bangladesh,Mamun Md Mamnul Islam,Messi Lionel,Cristiano Ronaldo,Robben Arjen
+Captain,Barbados,Burgess Romelle,Messi Lionel,Cristiano Ronaldo,Neymar
+Captain,Belarus,Kalachou Tsimafei,Neuer Manuel,Cristiano Ronaldo,Robben Arjen
+Captain,Belgium,Komany Vincent,Courtois Thibaut,Hazard Eden,Robben Arjen
+Captain,Belize,Eiley Dalton,Messi Lionel,Cristiano Ronaldo,Neymar
+Captain,Bermuda,Nusum John,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Captain,Bhutan,Tshering Passang,Cristiano Ronaldo,Hazard Eden,Costa Diego
+Captain,Bolivia,Raldes Ronald,Di Maria Angel,Cristiano Ronaldo,Messi Lionel
+Captain,Bosnia and Herzegovina,Džeko Edin,Cristiano Ronaldo,Messi Lionel,Robben Arjen
+Captain,Brazil,Da Silva Santos Junior Neymar,Messi Lionel,Cristiano Ronaldo,Mascherano Javier
+Captain,British Virgin Islands,Ceasar Troy,Cristiano Ronaldo,Di Maria Angel,Toure Yaya
+Captain,Brunei Darussalam,Khairul Shame Bin Suhaimi Mohamad,Lahm Philipp,Robben Arjen,Cristiano Ronaldo
+Captain,Bulgaria,Popov Ivelin,Cristiano Ronaldo,Ibrahimovic Zlatan,Mueller Thomas
+Captain,Burkina Faso,Kabore Charles,Cristiano Ronaldo,Messi Lionel,Benzema Karim
+Captain,Burundi,Ntibazonkiza Saidi,Cristiano Ronaldo,Messi Lionel,Toure Yaya
+Captain,Cambodia,Kouch Sokumpheak,Messi Lionel,Benzema Karim,Iniesta Andres
+Captain,Cameroon,Mbia Etoundi Stephane,Cristiano Ronaldo,Robben Arjen,Neuer Manuel
+Captain,Canada,De Guzman Julian,Mueller Thomas,Neuer Manuel,Robben Arjen
+Captain,Cape Verde Islands,Soares Marco,Cristiano Ronaldo,Robben Arjen,Di Maria Angel
+Captain,Cayman Islands,Suberan Matthew,Cristiano Ronaldo,Messi Lionel,Hazard Eden
+Captain,Chad,Ngar Ezechiel,Messi Lionel,Cristiano Ronaldo,Neymar
+Captain,Chile,Bravo Claudio,Messi Lionel,Iniesta Andres,Neuer Manuel
+Captain,China PR,Zhang Linpeng,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Captain,Chinese Taipei,Lee Meng Chian,Neuer Manuel,Robben Arjen,Neymar
+Captain,Colombia,Garcia Zarate Radamel Falcao,Rodriguez James,Cristiano Ronaldo,Di Maria Angel
+Captain,Comoros,Abdou Nadjim,Messi Lionel,Robben Arjen,Lahm Philipp
+Captain,Congo,Oniangue Prince Alban,Messi Lionel,Toure Yaya,Pogba Paul
+Captain,Congo DR,Mulumbu Youssouf,Cristiano Ronaldo,Toure Yaya,Messi Lionel
+Captain,Cook Islands,Joseph Mii,Messi Lionel,Cristiano Ronaldo,Di Maria Angel
+Captain,Costa Rica,Ruiz Bryan,Cristiano Ronaldo,Iniesta Andres,Robben Arjen
+Captain,Croatia,Srna Darijo,Cristiano Ronaldo,Schweinsteiger Bastian,Robben Arjen
+Captain,Cuba,Marquez Yeniel,Cristiano Ronaldo,Neymar,Rodriguez James
+Captain,Curaçao,Hoyer Ludgino,Messi Lionel,Rodriguez James,Kroos Toni
+Captain,Cyprus,Charalambides Constantinos,Cristiano Ronaldo,Robben Arjen,Messi Lionel
+Captain,Czech Republic,Rosicky Tomas,Cristiano Ronaldo,Messi Lionel,Schweinsteiger Bastian
+Captain,Denmark,Agger Daniel,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Captain,Djibouti,Mohamed Kadar,Messi Lionel,Robben Arjen,Neuer Manuel
+Captain,Dominica,Prince Glenson,Cristiano Ronaldo,Messi Lionel,Kroos Toni
+Captain,Dominican Republic,Martinez Hasley,Cristiano Ronaldo,Messi Lionel,Ramos Sergio
+Captain,Ecuador,Ayovi Corozo Walter Orlando,Robben Arjen,Cristiano Ronaldo,Kroos Toni
+Captain,Egypt,Fathi Ahmed,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Captain,El Salvador,Flores Andres,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Captain,England,Rooney Wayne,Cristiano Ronaldo,Kroos Toni,Bale Gareth
+Captain,Estonia,Klavan Ragnar,Lahm Philipp,Cristiano Ronaldo,Neuer Manuel
+Captain,Ethiopia,Bune Abebaw Butako,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Captain,Faroe Islands,Benjaminsen Fróði,Cristiano Ronaldo,Messi Lionel,Ibrahimovic Zlatan
+Captain,Fiji,Tamanisau Simione,Messi Lionel,Cristiano Ronaldo,Neuer Manuel
+Captain,Finland,Moisander Niklas,Cristiano Ronaldo,Messi Lionel,Ibrahimovic Zlatan
+Captain,France,Lloris Hugo,Cristiano Ronaldo,Benzema Karim,Neuer Manuel
+Captain,FYR Macedonia,Pachovski Tome,Cristiano Ronaldo,Neuer Manuel,Hazard Eden
+Captain,Gabon,Pierre Aubameyang,Messi Lionel,Cristiano Ronaldo,Neymar
+Captain,Georgia,Kankava Jaba,Iniesta Andres,Cristiano Ronaldo,Messi Lionel
+Captain,Germany,Schweinsteiger Bastian,Neuer Manuel,Lahm Philipp,Mueller Thomas
+Captain,Ghana,Asamoah Gyan,Cristiano Ronaldo,Messi Lionel,Kroos Toni
+Captain,Greece,Torosidis Vasileios,Robben Arjen,Cristiano Ronaldo,Lahm Philipp
+Captain,Grenada,Rennie Jake,Cristiano Ronaldo,Messi Lionel,Hazard Eden
+Captain,Guam,Cunliffe Jason,Mueller Thomas,Robben Arjen,Neuer Manuel
+Captain,Guatemala,Ruiz Carlos,Cristiano Ronaldo,Messi Lionel,Neymar
+Captain,Guyana,Moore Walter,Messi Lionel,Robben Arjen,Rodriguez James
+Captain,Honduras,Valladares Bonilla Noel Eduardo,Cristiano Ronaldo,Benzema Karim,Messi Lionel
+Captain,Hong Kong,Chan Wai Ho,Messi Lionel,Cristiano Ronaldo,Iniesta Andres
+Captain,Hungary,Dzsudzsák Balázs,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Captain,Iceland,Gunnarsson Aron,Cristiano Ronaldo,Robben Arjen,Messi Lionel
+Captain,India,Chhetri Sunil,Neuer Manuel,Mueller Thomas,Cristiano Ronaldo
+Captain,Indonesia,Utina Firman,Cristiano Ronaldo,Neymar,Messi Lionel
+Captain,Iran,Nekounam Javad,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Captain,Israel,Ben Haim Tal,Cristiano Ronaldo,Messi Lionel,Costa Diego
+Captain,Italy,Buffon Gianluigi,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Captain,Jamaica,Austin Rodolph,Cristiano Ronaldo,Messi Lionel,Robben Arjen
+Captain,Japan,Honda Keisuke,Neuer Manuel,Bale Gareth,Cristiano Ronaldo
+Captain,Jordan,Abdelfattah Hassan,Messi Lionel,Cristiano Ronaldo,Neymar
+Captain,Kazakhstan,Nuserbayev Tanat,Cristiano Ronaldo,Ibrahimovic Zlatan,Kroos Toni
+Captain,Kenya,Wanyama Victor,Cristiano Ronaldo,Toure Yaya,Messi Lionel
+Captain,Korea Republic,Ki Sungyueng,Messi Lionel,Cristiano Ronaldo,Hazard Eden
+Captain,Kuwait,Al Khaledi Nawaf,Cristiano Ronaldo,Mueller Thomas,Neuer Manuel
+Captain,Kyrgyzstan,Baimatov Azamat,Cristiano Ronaldo,Lahm Philipp,Messi Lionel
+Captain,Laos,Souksavanh Ketsada,Neuer Manuel,Goetze Mario,Robben Arjen
+Captain,Latvia,Gorkšs Kaspars,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Captain,Lebanon,Mehanna Lary,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Captain,Lesotho,Ntobo Moitheri,Cristiano Ronaldo,Messi Lionel,Toure Yaya
+Captain,Liberia,Lafford Anthony,Cristiano Ronaldo,Messi Lionel,Costa Diego
+Captain,Liechtenstein,Frick Mario,Neuer Manuel,Cristiano Ronaldo,Robben Arjen
+Captain,Lithuania,Kijanskas Tadas,Cristiano Ronaldo,Mueller Thomas,Messi Lionel
+Captain,Luxembourg,Mutsch Mario,Cristiano Ronaldo,Mueller Thomas,Neuer Manuel
+Captain,Macau,Cheang Cheng Ieong Paulo,Cristiano Ronaldo,Robben Arjen,Messi Lionel
+Captain,Madagascar,Rabeson F. Michael,Lahm Philipp,Mascherano Javier,Cristiano Ronaldo
+Captain,Malawi,Kamwendo Joseph,Cristiano Ronaldo,Ibrahimovic Zlatan,Messi Lionel
+Captain,Maldives,Ashfaq Ali,Cristiano Ronaldo,Messi Lionel,Neymar
+Captain,Mali,Keita Seydou,Cristiano Ronaldo,Neuer Manuel,Toure Yaya
+Captain,Malta,Mifsud Michael,Bale Gareth,Robben Arjen,Messi Lionel
+Captain,Mauritania,Ndiaye Oumar,Messi Lionel,Cristiano Ronaldo,Neuer Manuel
+Captain,Mauritius,Bell Collin,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Captain,Mexico,Guardado Hernandez José Andrés,Lahm Philipp,Di Maria Angel,Cristiano Ronaldo
+Captain,Moldova,Epureanu Alexandru,Neuer Manuel,Mueller Thomas,Robben Arjen
+Captain,Mongolia,Baysgalan Garidmagnai,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Captain,Montenegro,Vucinic Mirko,Ibrahimovic Zlatan,Cristiano Ronaldo,Mueller Thomas
+Captain,Montserrat,Griffith Anthony,Costa Diego,Hazard Eden,Neymar
+Captain,Morocco,Elmoutaqui Mehdi,Neuer Manuel,Cristiano Ronaldo,Lahm Philipp
+Captain,Mozambique,Khan Dario Ivan,Kroos Toni,Cristiano Ronaldo,Mueller Thomas
+Captain,Myanmar,Lwin Khin Maung,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Captain,Namibia,Ketjijere Ronald,Cristiano Ronaldo,Mueller Thomas,Messi Lionel
+Captain,Nepal,Thapa Sagar,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Captain,Netherlands,Van Persie Robin,Robben Arjen,Ibrahimovic Zlatan,Neuer Manuel
+Captain,New Caledonia,Dokunengo Olivier,Cristiano Ronaldo,Mueller Thomas,Messi Lionel
+Captain,New Zealand,Wood Chris,Cristiano Ronaldo,Rodriguez James,Costa Diego
+Captain,Nicaragua,Solórzano Sánchez David,Cristiano Ronaldo,Kroos Toni,Mueller Thomas
+Captain,Niger,Ouwo Moussa Maazou,Cristiano Ronaldo,Toure Yaya,Benzema Karim
+Captain,Nigeria,Enyeama Vincent,Cristiano Ronaldo,Ibrahimovic Zlatan,Toure Yaya
+Captain,Norway,Skjelbred Per Ciljan,Cristiano Ronaldo,Ibrahimovic Zlatan,Messi Lionel
+Captain,Oman,Al Habsi Ali,Neuer Manuel,Mueller Thomas,Cristiano Ronaldo
+Captain,Pakistan,Ullah Kaleem,Cristiano Ronaldo,Robben Arjen,Neymar
+Captain,Palestine,Saleh Ramzi,Messi Lionel,Neuer Manuel,Neymar
+Captain,Panama,Torres Román,Messi Lionel,Cristiano Ronaldo,Rodriguez James
+Captain,Paraguay,Santa Cruz Roque,Cristiano Ronaldo,Robben Arjen,Lahm Philipp
+Captain,Peru,Pizarro Claudio,Neuer Manuel,Cristiano Ronaldo,Di Maria Angel
+Captain,Philippines,Gier Robert James,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Captain,Poland,Lewandowski Robert,Cristiano Ronaldo,Neuer Manuel,Schweinsteiger Bastian
+Captain,Portugal,Ronaldo Cristiano,Ramos Sergio,Bale Gareth,Benzema Karim
+Captain,Puerto Rico,Ramos Héctor,Neuer Manuel,Neymar,Mueller Thomas
+Captain,Qatar,Rajab Bilal,Cristiano Ronaldo,Robben Arjen,Lahm Philipp
+Captain,Republic of Ireland,Keane Robbie,Cristiano Ronaldo,Messi Lionel,Bale Gareth
+Captain,Romania,Ciprian Marica,Neuer Manuel,Costa Diego,Messi Lionel
+Captain,Russia,Berezutski Vasili,Neuer Manuel,Cristiano Ronaldo,Robben Arjen
+Captain,Rwanda,Niyonzima Haruna,Cristiano Ronaldo,Toure Yaya,Messi Lionel
+Captain,Samoa,Faaiauso Desmond,Messi Lionel,Cristiano Ronaldo,Neymar
+Captain,San Marino,Selva Andy,Cristiano Ronaldo,Messi Lionel,Robben Arjen
+Captain,Saudi Arabia,Kariri Saud,Cristiano Ronaldo,Lahm Philipp,Neuer Manuel
+Captain,Scotland,Brown Scott,Cristiano Ronaldo,Robben Arjen,Neuer Manuel
+Captain,Senegal,Diame Mohamed,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Captain,Serbia,Ivanovic Branislav,Cristiano Ronaldo,Messi Lionel,Hazard Eden
+Captain,Seychelles,Hoareau Ronny,Cristiano Ronaldo,Robben Arjen,Messi Lionel
+Captain,Sierra Leone,Bangura Umaru,Courtois Thibaut,Messi Lionel,Neymar
+Captain,Singapore,Ishak Shahril,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Captain,Slovakia,Skrtel Martin,Cristiano Ronaldo,Benzema Karim,Hazard Eden
+Captain,Slovenia,Cesar Boštjan,Cristiano Ronaldo,Costa Diego,Robben Arjen
+Captain,Solomon Islands,Faro'Odo Junior Henry,Neuer Manuel,Lahm Philipp,Goetze Mario
+Captain,South Africa,Furman Dean,Cristiano Ronaldo,Messi Lionel,Lahm Philipp
+Captain,South Sudan,Juma Jenaro,Cristiano Ronaldo,Neuer Manuel,Lahm Philipp
+Captain,Spain,Casillas Iker,Cristiano Ronaldo,Ramos Sergio,Mueller Thomas
+Captain,Sri Lanka,Chathuranga Sanjeewa,Messi Lionel,Robben Arjen,Cristiano Ronaldo
+Captain,St. Kitts and Nevis,Harris Atiba,Messi Lionel,Cristiano Ronaldo,Robben Arjen
+Captain,St. Lucia,Emmanuel Sheldon,Goetze Mario,Messi Lionel,Cristiano Ronaldo
+Captain,St. Vincent and the,Hamlet Darren,Messi Lionel,Cristiano Ronaldo,Robben Arjen
+Captain,Grenadines,Abdalla Almoez Mahgoub,Lahm Philipp,Messi Lionel,Mueller Thomas
+Captain,Sudan,Darson Zhirvano,Neuer Manuel,Mueller Thomas,Messi Lionel
+Captain,Suriname,Tsabedze Tony,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Captain,Swaziland,Ibrahimovic Zlatan,Messi Lionel,Neuer Manuel,Cristiano Ronaldo
+Captain,Switzerland,Inler Gökhan,Cristiano Ronaldo,Robben Arjen,Neymar
+Captain,Syria,Balhous Mosab,Messi Lionel,Neymar,Ramos Sergio
+Captain,Tahiti,Vallard Nicolas,Neuer Manuel,Benzema Karim,Iniesta Andres
+Captain,Tajikistan,Tuychiev Alisher,Messi Lionel,Cristiano Ronaldo,Robben Arjen
+Captain,Tanzania,Haroub Nadir,Messi Lionel,Cristiano Ronaldo,Mueller Thomas
+Captain,Thailand,Lahsoh Adul,Cristiano Ronaldo,Robben Arjen,Mascherano Javier
+Captain,Turkey,Turan Arda,Cristiano Ronaldo,Robben Arjen,Benzema Karim
+Captain,Turks and Caicos Islands,Clinton Gavin,Cristiano Ronaldo,Bale Gareth,Hazard Eden
+Captain,Ukraine,Tymoschuk Anatoliy,Neuer Manuel,Mueller Thomas,Cristiano Ronaldo
+Captain,United Arab Emirates,Aljneibi Ismaeil,Neuer Manuel,Kroos Toni,Cristiano Ronaldo
+Captain,Uruguay,Godín Diego,Costa Diego,Courtois Thibaut,Robben Arjen
+Captain,US Virgin Islands,Van Gurp Alberto,Neuer Manuel,Cristiano Ronaldo,Mueller Thomas
+Captain,USA,Dempsey Clint,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Captain,Uzbekistan,Djeparov Server,Mueller Thomas,Messi Lionel,Cristiano Ronaldo
+Captain,Venezuela,Rincon Tomas,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Captain,Vietnam,Le Tan Tai,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Captain,Wales,Williams Ashley,Bale Gareth,Schweinsteiger Bastian,Hazard Eden
+Captain,Zambia,Stopilla Sunzu,Di Maria Angel,Neuer Manuel,Messi Lionel
+Captain,Zimbabwe,Wisdom Mutasa,Cristiano Ronaldo,Messi Lionel,Hazard Eden
+Coach,Afghanistan,Kargar Mohammad Yosuf,Ibrahimovic Zlatan,Cristiano Ronaldo,Messi Lionel
+Coach,Albania,De Biasi Giovanni,Cristiano Ronaldo,Lahm Philipp,Robben Arjen
+Coach,Algeria,Gourcuff Christian,Lahm Philipp,Messi Lionel,Robben Arjen
+Coach,American Samoa,Aliva Uinifareti,Neymar,Messi Lionel,Cristiano Ronaldo
+Coach,Andorra,Alvarez De Eulate Jesus Luis,Mueller Thomas,Cristiano Ronaldo,Messi Lionel
+Coach,Angola,Filemon Romeu,Cristiano Ronaldo,Robben Arjen,Messi Lionel
+Coach,Anguilla,Johnson Colin,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Coach,Antigua and Barbuda,Williams Rolston,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Coach,Argentina,Martino Gerardo,Messi Lionel,Di Maria Angel,Mascherano Javier
+Coach,Armenia,Challandes Bernard,Cristiano Ronaldo,Neuer Manuel,Mueller Thomas
+Coach,Aruba,Franken Giovanni,Robben Arjen,Costa Diego,Cristiano Ronaldo
+Coach,Australia,Postecoglou Ange,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Coach,Austria,Koller Marcel,Cristiano Ronaldo,Di Maria Angel,Neuer Manuel
+Coach,Azerbaijan,Gurbanov Mahmud,Robben Arjen,Di Maria Angel,Cristiano Ronaldo
+Coach,Bahamas,Jean Nesley,Neymar,Cristiano Ronaldo,Kroos Toni
+Coach,Bahrain,Alabassi Adnan,Neuer Manuel,Messi Lionel,Schweinsteiger Bastian
+Coach,Bangladesh,A.K.M. Saiful Bari Ttiu,Cristiano Ronaldo,Messi Lionel,Neymar
+Coach,Barbados,Falopa Marcos,Cristiano Ronaldo,Neymar,Messi Lionel
+Coach,Belarus,Zygmantovitch Andrei,Mascherano Javier,Neuer Manuel,Mueller Thomas
+Coach,Belgium,Wilmots Marc,Robben Arjen,Neuer Manuel,Courtois Thibaut
+Coach,Belize,Nunez Jorge,Cristiano Ronaldo,Ibrahimovic Zlatan,Messi Lionel
+Coach,Bermuda,Bascome Andrew,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Coach,Bhutan,Chokey Nima,Messi Lionel,Robben Arjen,Mueller Thomas
+Coach,Bolivia,Clausen Nestor,Messi Lionel,Cristiano Ronaldo,Di Maria Angel
+Coach,Bosnia and Herzegovina,Sušic Safet,Cristiano Ronaldo,Messi Lionel,Robben Arjen
+Coach,Brazil,Bledorn Verri Carlos Caetano,Neymar,Cristiano Ronaldo,Ibrahimovic Zlatan
+Coach,British Virgin Islands,Williams Avondale,Neuer Manuel,Messi Lionel,Cristiano Ronaldo
+Coach,Brunei Darussalam,Bin Haji Ali Dayem,Neymar,Rodriguez James,Mueller Thomas
+Coach,Bulgaria,Penev Lyuboslav,Cristiano Ronaldo,Neuer Manuel,Kroos Toni
+Coach,Burkina Faso,Put Paul Joseph François,Cristiano Ronaldo,Toure Yaya,Messi Lionel
+Coach,Burundi,Willfeld Rainer,Neuer Manuel,Robben Arjen,Lahm Philipp
+Coach,Cambodia,Lee Tae Hoon,Cristiano Ronaldo,Messi Lionel,Lahm Philipp
+Coach,Cameroon,Volker Finke,Robben Arjen,Rodriguez James,Toure Yaya
+Coach,Canada,Floro Sanz Benito,Cristiano Ronaldo,Ramos Sergio,Robben Arjen
+Coach,Cape Verde Islands,Águas Rui,Cristiano Ronaldo,Robben Arjen,Di Maria Angel
+Coach,Chad,Emmanuel Tregoat,Cristiano Ronaldo,Robben Arjen,Neuer Manuel
+Coach,Chile,Sampaoli Jorge,Cristiano Ronaldo,Robben Arjen,Messi Lionel
+Coach,China PR,Perrin Alain Andre Christian,Mueller Thomas,Messi Lionel,Robben Arjen
+Coach,Chinese Taipei,Chen Kuei Jen,Bale Gareth,Costa Diego,Messi Lionel
+Coach,Colombia,Pekerman Jose Nestor,Rodriguez James,Messi Lionel,Cristiano Ronaldo
+Coach,Comoros,Abdou Amir,Mueller Thomas,Neuer Manuel,Cristiano Ronaldo
+Coach,Congo,Leroy Claude Marie François,Neuer Manuel,Robben Arjen,Toure Yaya
+Coach,Congo DR,Ibenge Florent,Messi Lionel,Cristiano Ronaldo,Toure Yaya
+Coach,Cook Islands,Tisam Tuka,Messi Lionel,Cristiano Ronaldo,Di Maria Angel
+Coach,Costa Rica,Paulo Wanchope,Cristiano Ronaldo,Kroos Toni,Neuer Manuel
+Coach,Côte d'Ivoire,Renard Hervé Jean Marie Roger,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Coach,Croatia,Kovac Niko,Lahm Philipp,Neuer Manuel,Schweinsteiger Bastian
+Coach,Cuba,Benites Walter,Cristiano Ronaldo,Neymar,Rodriguez James
+Coach,Curaçao,Pieternella Ingomar,Neuer Manuel,Messi Lionel,Cristiano Ronaldo
+Coach,Cyprus,Christodoulou Charalampos,Cristiano Ronaldo,Robben Arjen,Neuer Manuel
+Coach,Czech Republic,Vrba Pavel,Robben Arjen,Lahm Philipp,Neuer Manuel
+Coach,Denmark,Olsen Morten,Cristiano Ronaldo,Robben Arjen,Messi Lionel
+Coach,Djibouti,Mohamed Ahmed Badri,Messi Lionel,Neuer Manuel,Robben Arjen
+Coach,Dominica,Marshall Shane,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Coach,Dominican Republic,Hernandez Heres Clemente Domingo,Cristiano Ronaldo,Messi Lionel,Robben Arjen
+Coach,Ecuador,Vizuete Toapanta Sixto Rafael,Kroos Toni,Pogba Paul,Rodriguez James
+Coach,Egypt,Gharib Shawky,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Coach,El Salvador,Roca Albert,Iniesta Andres,Messi Lionel,Neymar
+Coach,England,Hodgson Roy,Mascherano Javier,Lahm Philipp,Neuer Manuel
+Coach,Estonia,Pehrsson Magnus,Neuer Manuel,Cristiano Ronaldo,Robben Arjen
+Coach,Ethiopia,Barreto Mariano Jeronimo,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Coach,Faroe Islands,Olsen Lars,Cristiano Ronaldo,Robben Arjen,Messi Lionel
+Coach,Fiji,Buzzetti Juan Carlos,Cristiano Ronaldo,Messi Lionel,Neymar
+Coach,Finland,Paatelainen Mixu,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Coach,France,Deschamps Didier,Cristiano Ronaldo,Neuer Manuel,Benzema Karim
+Coach,FYR Macedonia,Gjurovski Boshko,Neuer Manuel,Robben Arjen,Cristiano Ronaldo
+Coach,Gabon,Jorge Costa,Messi Lionel,Cristiano Ronaldo,Rodriguez James
+Coach,Georgia,Ketsbaia Temur,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Coach,Germany,Löw Joachim,Neuer Manuel,Lahm Philipp,Schweinsteiger Bastian
+Coach,Ghana,Maxwell Konadu,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Coach,Greece,Ranieri Claudio,Neuer Manuel,Cristiano Ronaldo,Robben Arjen
+Coach,Grenada,Modeste Anthony,Cristiano Ronaldo,Toure Yaya,Messi Lionel
+Coach,Guam,White Gary,Neuer Manuel,Robben Arjen,Lahm Philipp
+Coach,Guatemala,Sopegno Ivan,Messi Lionel,Cristiano Ronaldo,Rodriguez James
+Coach,Guyana,Thompson Denzil,Robben Arjen,Neymar,Messi Lionel
+Coach,Honduras,Medford Bryan Hernán Evaristo,Cristiano Ronaldo,Messi Lionel,Neymar
+Coach,Hong Kong,Kim Pan Gon,Neuer Manuel,Robben Arjen,Toure Yaya
+Coach,Hungary,Dárdai Pál,Neuer Manuel,Cristiano Ronaldo,Lahm Philipp
+Coach,Iceland,Hallgrimsson Heimir,Neuer Manuel,Robben Arjen,Cristiano Ronaldo
+Coach,India,Medeira Savio Piedade,Cristiano Ronaldo,Neuer Manuel,Mueller Thomas
+Coach,Indonesia,Riedl Alfred,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Coach,Iran,Queiroz Carlos,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Coach,Israel,Guttman Eli,Cristiano Ronaldo,Robben Arjen,Neuer Manuel
+Coach,Italy,Conte Antonio,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Coach,Jamaica,Schäfer Winfried,Neuer Manuel,Robben Arjen,Messi Lionel
+Coach,Japan,Aguirre Javier,Courtois Thibaut,Neuer Manuel,Iniesta Andres
+Coach,Jordan,Wilkins Ray,Messi Lionel,Cristiano Ronaldo,Neymar
+Coach,Kazakhstan,Krasnozhan Juri,Robben Arjen,Cristiano Ronaldo,Di Maria Angel
+Coach,Kenya,Williamson Robert,Mueller Thomas,Iniesta Andres,Costa Diego
+Coach,Korea Republic,Stielike Ulrich Otto,Cristiano Ronaldo,Neuer Manuel,Di Maria Angel
+Coach,Kuwait,Vieira Jorvan,Cristiano Ronaldo,Neuer Manuel,Mueller Thomas
+Coach,Kyrgyzstan,Krestinin Aleksandr,Mueller Thomas,Neuer Manuel,Lahm Philipp
+Coach,Laos,Booth David,Cristiano Ronaldo,Messi Lionel,Lahm Philipp
+Coach,Latvia,Pahars Marians,Messi Lionel,Robben Arjen,Neuer Manuel
+Coach,Lebanon,Giannini Giuseppe,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Coach,Lesotho,Matete Seephephe,Messi Lionel,Cristiano Ronaldo,Toure Yaya
+Coach,Liberia,Kojo Thomas,Cristiano Ronaldo,Messi Lionel,Costa Diego
+Coach,Liechtenstein,Pauritsch Rene,Cristiano Ronaldo,Robben Arjen,Neuer Manuel
+Coach,Lithuania,Pankratjevas Igoris,Messi Lionel,Neuer Manuel,Robben Arjen
+Coach,Luxembourg,Holtz Luc,Cristiano Ronaldo,Neuer Manuel,Neymar
+Coach,Macau,Leung Sui Wing,Messi Lionel,Neuer Manuel,Robben Arjen
+Coach,Madagascar,Rajaonarisamba Franck,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Coach,Malawi,Chimodzi Young,Cristiano Ronaldo,Messi Lionel,Neymar
+Coach,Maldives,Mamic Drago,Cristiano Ronaldo,Messi Lionel,Neymar
+Coach,Mali,Kasperczak Henri,Neuer Manuel,Cristiano Ronaldo,Mascherano Javier
+Coach,Malta,Ghedin Pietro,Goetze Mario,Mueller Thomas,Robben Arjen
+Coach,Mauritania,Martins Corentin,Cristiano Ronaldo,Messi Lionel,Costa Diego
+Coach,Mauritius,Patel Ackbar,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Coach,Mexico,Herrera Aguirre Miguel Ernesto,Cristiano Ronaldo,Lahm Philipp,Kroos Toni
+Coach,Moldova,Curteian Alexandr,Neuer Manuel,Robben Arjen,Messi Lionel
+Coach,Mongolia,Lkhgvajav Dorjjav,Mueller Thomas,Goetze Mario,Messi Lionel
+Coach,Montenegro,Brnovic Branko,Cristiano Ronaldo,Mueller Thomas,Messi Lionel
+Coach,Montserrat,Hewlett Lenny,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Coach,Morocco,Badou Ezzaki,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Coach,Mozambique,Chissano João António,Robben Arjen,Messi Lionel,Cristiano Ronaldo
+Coach,Myanmar,Radojko Avremovic,Messi Lionel,Neuer Manuel,Cristiano Ronaldo
+Coach,Namibia,Mannetti Ricardo,Cristiano Ronaldo,Mueller Thomas,Messi Lionel
+Coach,Nepal,Stefanovski Jack,Cristiano Ronaldo,Messi Lionel,Costa Diego
+Coach,Netherlands,Hiddink Guus,Robben Arjen,Mueller Thomas,Cristiano Ronaldo
+Coach,New Caledonia,Moizan Alain,Cristiano Ronaldo,Neuer Manuel,Mueller Thomas
+Coach,New Zealand,Hudson Anthony,Cristiano Ronaldo,Costa Diego,Bale Gareth
+Coach,Nicaragua,Londoño Sánchez Luis Javier,Cristiano Ronaldo,Mueller Thomas,Lahm Philipp
+Coach,Niger,Diabate Oumarou Saidou,Neuer Manuel,Schweinsteiger Bastian,Toure Yaya
+Coach,Nigeria,Keshi Stephen,Cristiano Ronaldo,Toure Yaya,Lahm Philipp
+Coach,Norway,Høgmo Per-Mathias,Cristiano Ronaldo,Robben Arjen,Neuer Manuel
+Coach,Oman,Le Guen Paul,Cristiano Ronaldo,Neuer Manuel,Benzema Karim
+Coach,Palestine,Alhasan Ahmed,Messi Lionel,Neuer Manuel,Neymar
+Coach,Panama,Gomez Hernán Dario,Messi Lionel,Cristiano Ronaldo,Kroos Toni
+Coach,Paraguay,Genes Vïctor,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Coach,Peru,Bengoechea Pablo,Cristiano Ronaldo,Neymar,Messi Lionel
+Coach,Philippines,Dooley Thomas Dennis,Messi Lionel,Cristiano Ronaldo,Neuer Manuel
+Coach,Poland,Nawalka Adam,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Coach,Portugal,Santos Fernando,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Coach,Puerto Rico,Barros Vitor Hugo,Neuer Manuel,Robben Arjen,Cristiano Ronaldo
+Coach,Qatar,Belmadi Djamel,Cristiano Ronaldo,Neuer Manuel,Kroos Toni
+Coach,Republic of Ireland,O'Neill Martin,Cristiano Ronaldo,Messi Lionel,Costa Diego
+Coach,Romania,Anghel Iordanescu,Cristiano Ronaldo,Mueller Thomas,Messi Lionel
+Coach,Russia,Capello Fabio,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Coach,Rwanda,Constantine Stephen,Cristiano Ronaldo,Messi Lionel,Rodriguez James
+Coach,Samoa,Young Phineas,Neuer Manuel,Goetze Mario,Messi Lionel
+Coach,San Marino,Manzaroli Pierangelo,Neuer Manuel,Cristiano Ronaldo,Mueller Thomas
+Coach,Saudi Arabia,Lopez Caro Juan Ramon,Iniesta Andres,Cristiano Ronaldo,Messi Lionel
+Coach,Scotland,Strachan Gordon,Cristiano Ronaldo,Costa Diego,Robben Arjen
+Coach,Senegal,Giresse Alain,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Coach,Serbia,Curcic Radovan,Cristiano Ronaldo,Messi Lionel,Schweinsteiger Bastian
+Coach,Seychelles,Mathiot Ulric,Cristiano Ronaldo,Robben Arjen,Messi Lionel
+Coach,Sierra Leone,Sesay Ajina,Cristiano Ronaldo,Messi Lionel,Neymar
+Coach,Singapore,Stange Bernd,Neuer Manuel,Mueller Thomas,Messi Lionel
+Coach,Slovakia,Kozak Jan,Cristiano Ronaldo,Neuer Manuel,Ibrahimovic Zlatan
+Coach,Slovenia,Katanec Srečko,Mueller Thomas,Cristiano Ronaldo,Neuer Manuel
+Coach,Solomon Islands,Moli Jacob,Neuer Manuel,Mueller Thomas,Lahm Philipp
+Coach,South Africa,Mashaba Ephraim,Messi Lionel,Neuer Manuel,Pogba Paul
+Coach,South Sudan,Lee Sung Jea,Kroos Toni,Messi Lionel,Costa Diego
+Coach,Spain,Del Bosque Vicente,Cristiano Ronaldo,Lahm Philipp,Ramos Sergio
+Coach,Sri Lanka,Kavazovic Nicola,Neuer Manuel,Kroos Toni,Mueller Thomas
+Coach,St. Kitts and Nevis,Hazel Jeffery,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Coach,St. Lucia,Lastic Francis,Goetze Mario,Costa Diego,Rodriguez James
+Coach,St. Vincent and the,Huggins Cornelius,Messi Lionel,Cristiano Ronaldo,Robben Arjen
+Coach,Grenadines,Ahmed Mohamed Abdalla,Lahm Philipp,Messi Lionel,Mueller Thomas
+Coach,Sudan,Godeken Roberto,Cristiano Ronaldo,Kroos Toni,Messi Lionel
+Coach,Suriname,Bulunga Harries,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Coach,Swaziland,Hamrén Erik,Ibrahimovic Zlatan,Neuer Manuel,Messi Lionel
+Coach,Sweden,Petkovic Vladimir,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Coach,Switzerland,Al Fakeer Muhannad,Messi Lionel,Cristiano Ronaldo,Iniesta Andres
+Coach,Syria,Etaeta Eddy,Neuer Manuel,Benzema Karim,Ibrahimovic Zlatan
+Coach,Tahiti,Mukhamadiev Mukhsin,Neuer Manuel,Robben Arjen,Mueller Thomas
+Coach,Tajikistan,Nooij Mart,Robben Arjen,Messi Lionel,Cristiano Ronaldo
+Coach,Tanzania,Senamuang Kiatisuk,Cristiano Ronaldo,Messi Lionel,Lahm Philipp
+Coach,Thailand,Terim Fatih,Cristiano Ronaldo,Robben Arjen,Benzema Karim
+Coach,Turkey,Harrington Craig,Cristiano Ronaldo,Bale Gareth,Hazard Eden
+Coach,Turks and Caicos Islands,Fomenko Mykhailo,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Coach,Ukraine,Redah Mahdi,Cristiano Ronaldo,Robben Arjen,Mueller Thomas
+Coach,United Arab Emirates,Tabárez Oscar,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Coach,Uruguay,Appleton Leonard,Cristiano Ronaldo,Costa Diego,Messi Lionel
+Coach,US Virgin Islands,Klinsmann Jurgen,Neuer Manuel,Cristiano Ronaldo,Robben Arjen
+Coach,USA,Kasimov Mirdjalal,Mueller Thomas,Messi Lionel,Robben Arjen
+Coach,Uzbekistan,Sanvicente Noel,Rodriguez James,Robben Arjen,Messi Lionel
+Coach,Vietnam,Toshiya Miura,Cristiano Ronaldo,Neuer Manuel,Bale Gareth
+Coach,Wales,Coleman Christopher,Bale Gareth,Cristiano Ronaldo,Schweinsteiger Bastian
+Coach,Zambia,Honour Janza,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Coach,Zimbabwe,Kalisto Pasuwa,Cristiano Ronaldo,Messi Lionel,Toure Yaya
+Media,Albania,Dizdari Besnik,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Media,Algeria,Ouahib Yazid,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Andorra,Duaso Victor,Neuer Manuel,Mueller Thomas,Di Maria Angel
+Media,Angola,Goncalves Mateus,Cristiano Ronaldo,Di Maria Angel,Neuer Manuel
+Media,Antigua and Barbuda,Neto Baptiste,Goetze Mario,Messi Lionel,Neymar
+Media,Argentina,Sacco Enrique,Messi Lionel,Cristiano Ronaldo,Neuer Manuel
+Media,Armenia,Baghdasarian Souren,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Media,Aruba,Kock Ricardo,Mueller Thomas,Messi Lionel,Cristiano Ronaldo
+Media,Australia,Foster Craig,Neuer Manuel,Cristiano Ronaldo,Lahm Philipp
+Media,Austria,Kowatsch-Schwarz Walter,Cristiano Ronaldo,Neuer Manuel,Lahm Philipp
+Media,Azerbaijan,Mövsümov Rasim,Cristiano Ronaldo,Lahm Philipp,Robben Arjen
+Media,Bahrain,Ashoor Abdullah,Cristiano Ronaldo,Neuer Manuel,Neymar
+Media,Bangladesh,Mahamud Raihan,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Media,Belarus,Nikolaev Sergey,Cristiano Ronaldo,Mueller Thomas,Robben Arjen
+Media,Belgium,Dubois Michel,Neuer Manuel,Cristiano Ronaldo,Rodriguez James
+Media,Belize,Morales Iglesias Ruben,Messi Lionel,Rodriguez James,Cristiano Ronaldo
+Media,Benin,Sagbo René,Cristiano Ronaldo,Messi Lionel,Neymar
+Media,Bermuda,Burton James,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Media,Bhutan,Wangdi Phuntsho,Rodriguez James,Pogba Paul,Mueller Thomas
+Media,Bolivia,Rivera Carlos Enrique,Rodriguez James,Mascherano Javier,Neymar
+Media,Bosnia-Herzegovina,Buric Ahmed,Mueller Thomas,Cristiano Ronaldo,Ibrahimovic Zlatan
+Media,Botswana,Mathala Oaitse,Cristiano Ronaldo,Messi Lionel,Robben Arjen
+Media,Brazil,Machado Cleber,Cristiano Ronaldo,Robben Arjen,Mueller Thomas
+Media,Brunei Darussalam,Pg Salleh Ak Fauzi,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Media,Bulgaria,Savov Michel,Neuer Manuel,Robben Arjen,Di Maria Angel
+Media,Burkina Faso,Hien Victorien Marie,Mueller Thomas,Costa Diego,Ramos Sergio
+Media,Burma,Zaw Linn Kyaw,Cristiano Ronaldo,Mascherano Javier,Kroos Toni
+Media,Cambodia,Chamroeun Ung,Cristiano Ronaldo,Mueller Thomas,Costa Diego
+Media,Cameroon,Mbeze Brice,Neuer Manuel,Benzema Karim,Neymar
+Media,Canada,Davidson Neil,Cristiano Ronaldo,Mueller Thomas,Messi Lionel
+Media,Cape Verde Islands,Amaral André,Mueller Thomas,Cristiano Ronaldo,Di Maria Angel
+Media,Cayman Islands,Shillingford Ron,Cristiano Ronaldo,Messi Lionel,Neymar
+Media,Chad,Hissein Atti Alifa,Cristiano Ronaldo,Neymar,Benzema Karim
+Media,Chile,Diaz Danilo,Robben Arjen,Cristiano Ronaldo,Rodriguez James
+Media,China PR,Ming Luo,Cristiano Ronaldo,Neuer Manuel,Mueller Thomas
+Media,Colombia,Andrade Paché,Schweinsteiger Bastian,Cristiano Ronaldo,Rodriguez James
+Media,Comoros,Boina Abdou,Cristiano Ronaldo,Lahm Philipp,Robben Arjen
+Media,Congo,Eloue James Golden,Cristiano Ronaldo,Messi Lionel,Neymar
+Media,Congo DR,Kabelu Eddy,Cristiano Ronaldo,Goetze Mario,Robben Arjen
+Media,Costa Rica,Calvo Castro Rodrigo,Kroos Toni,Cristiano Ronaldo,Rodriguez James
+Media,Côte d'Ivoire,Khalil Adam,Cristiano Ronaldo,Toure Yaya,Neuer Manuel
+Media,Croatia,Reic Zdravko,Cristiano Ronaldo,Neuer Manuel,Rodriguez James
+Media,Cuba,Hernandez Miguel,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Media,Curaçao,Dunker Nino,Cristiano Ronaldo,Robben Arjen,Neuer Manuel
+Media,Cyprus,Gavrielides Michel,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Media,Czech Republic,Hrabe Stanislav,Mueller Thomas,Robben Arjen,Cristiano Ronaldo
+Media,Denmark,Thogersen Troels Bager,Cristiano Ronaldo,Robben Arjen,Lahm Philipp
+Media,Djibouti,Mohamed Kenadid,Benzema Karim,Ibrahimovic Zlatan,Messi Lionel
+Media,Dominican Republic,Bauger Jorge Rolando,Cristiano Ronaldo,Messi Lionel,Robben Arjen
+Media,Ecuador,Zavala Garcia Fabricio,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Egypt,Mazhar Inas,Cristiano Ronaldo,Mueller Thomas,Robben Arjen
+Media,El Salvador,Posada Flores Mario Ernesto,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Media,England,Winter Henry,Cristiano Ronaldo,Neuer Manuel,Lahm Philipp
+Media,Eritrea,Seium Michael,Neuer Manuel,Robben Arjen,Cristiano Ronaldo
+Media,Estonia,Süvari Aet,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Media,Ethiopia,Abdulkeni Mensur,Neuer Manuel,Cristiano Ronaldo,Lahm Philipp
+Media,Faroe Islands,Tróndur Arge,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Media,Fiji,Kumar Rashneel,Cristiano Ronaldo,Neymar,Rodriguez James
+Media,Finland,Kanerva Juha,Neuer Manuel,Mueller Thomas,Cristiano Ronaldo
+Media,France,Ejnes Gérard,Cristiano Ronaldo,Robben Arjen,Neuer Manuel
+Media,FYR Macedonia,Timkovski Boro,Neuer Manuel,Cristiano Ronaldo,Costa Diego
+Media,Gabon,Loundou James Angelo,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Gambia,Camara Baboucar,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Media,Georgia,Potskhveria Zurab,Cristiano Ronaldo,Messi Lionel,Bale Gareth
+Media,Germany,Wild Karlheinz,Neuer Manuel,Mueller Thomas,Lahm Philipp
+Media,Ghana,Oti Adjei Michael,Cristiano Ronaldo,Lahm Philipp,Messi Lionel
+Media,Greece,Staramopoulos Manos,Neuer Manuel,Robben Arjen,Cristiano Ronaldo
+Media,Grenada,Bascombe Michael,Mueller Thomas,Messi Lionel,Toure Yaya
+Media,Guatemala,Aguilar Francisco,Neuer Manuel,Lahm Philipp,Cristiano Ronaldo
+Media,Guinea,Diallo Ibrahima,Cristiano Ronaldo,Neuer Manuel,Neymar
+Media,Guinea-Bissau,Ucha Etiandro,Cristiano Ronaldo,Hazard Eden,Messi Lionel
+Media,Guyana,Campbell Emmerson,Cristiano Ronaldo,Neymar,Messi Lionel
+Media,Haiti,Nere Enock,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Media,Honduras,Garcia Francisco Antonio Rivas,Cristiano Ronaldo,Mueller Thomas,Neymar
+Media,Hong Kong,Alvarado Gabby,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Hungary,Csillag Péter,Cristiano Ronaldo,Lahm Philipp,Neuer Manuel
+Media,Iceland,Sigurdsson Vidir,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Media,India,Sarkar Dhiman,Mueller Thomas,Lahm Philipp,Neuer Manuel
+Media,Indonesia,Saleh Nurdin,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Media,Iran,Rahmani Siamak,Cristiano Ronaldo,Mueller Thomas,Messi Lionel
+Media,Iraq,Abdul Emam Sami,Cristiano Ronaldo,Neuer Manuel,Di Maria Angel
+Media,Ireland,Kelly Paul,Cristiano Ronaldo,Mueller Thomas,Messi Lionel
+Media,Israel,Klieger Noah,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Media,Italy,Condo Paolo,Cristiano Ronaldo,Neuer Manuel,Di Maria Angel
+Media,Japan,Tamura Shuichi,Neuer Manuel,Kroos Toni,Cristiano Ronaldo
+Media,Kazakhstan,Tulegenov Geniy,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Media,Kenya,Nyende Charles,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Kuwait,Al Attia Abd Al Aziz,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Kyrgyzstan,Louzanov Pavel,Robben Arjen,Mueller Thomas,Neymar
+Media,Latvia,Koscinkevics Ilvars,Cristiano Ronaldo,Lahm Philipp,Messi Lionel
+Media,Lebanon,Fawaz Mohamed,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Media,Lesotho,Matjama Thabang,Robben Arjen,Pogba Paul,Bale Gareth
+Media,Liberia,Carter James Burgess,Cristiano Ronaldo,Messi Lionel,Robben Arjen
+Media,Libya,Cutajar Joseph,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Liechtenstein,Hasler Ernst,Di Maria Angel,Neuer Manuel,Rodriguez James
+Media,Lithuania,Janonis Giedrius,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Media,Luxembourg,Hiegel Didier,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Media,Macau,Santos Pedro André,Cristiano Ronaldo,Robben Arjen,Di Maria Angel
+Media,Madagascar,Rabary Clément,Neymar,Mueller Thomas,Benzema Karim
+Media,Malawi,Kanjere Peter,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Media,Malaysia,Hashim Rizal,Lahm Philipp,Neuer Manuel,Cristiano Ronaldo
+Media,Maldives,Ali Shimaz,Cristiano Ronaldo,Messi Lionel,Neymar
+Media,Mali,Bobo Tounkara Souleymane,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Media,Malta,Camenzuli Charles,Cristiano Ronaldo,Neuer Manuel,Pogba Paul
+Media,Mauritania,Ould El Hacen Mohamed,Robben Arjen,Bale Gareth,Di Maria Angel
+Media,Mauritius,Hydoo Azmaal,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Mexico,Aguilera Salvador,Cristiano Ronaldo,Kroos Toni,Di Maria Angel
+Media,Moldova,Donets Serghei,Neuer Manuel,Robben Arjen,Messi Lionel
+Media,Mongolia,Tsagaanbaatar Byambaa,Mueller Thomas,Cristiano Ronaldo,Costa Diego
+Media,Montenegro,Mitrovic Danilo,Cristiano Ronaldo,Mueller Thomas,Neuer Manuel
+Media,Morocco,Badri Mostafa,Cristiano Ronaldo,Neuer Manuel,Lahm Philipp
+Media,Mozambique,Zandamela Alexandre,Cristiano Ronaldo,Mueller Thomas,Messi Lionel
+Media,Namibia,Nikodemus Sheefeni,Neuer Manuel,Robben Arjen,Cristiano Ronaldo
+Media,Nepal,Raju Ghising,Neuer Manuel,Messi Lionel,Mueller Thomas
+Media,Netherlands,Nieuwenhof Frans Van Den,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Media,New Caledonia,Cambefort Yoann,Mueller Thomas,Neuer Manuel,Benzema Karim
+Media,New Zealand,Watson Gordon Glen,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Media,Nicaragua,Rosales Cruz Osman,Cristiano Ronaldo,Robben Arjen,Mueller Thomas
+Media,Niger,Ganoua Mohamed Silimane,Kroos Toni,Neuer Manuel,Cristiano Ronaldo
+Media,Nigeria,Audu Samm,Messi Lionel,Cristiano Ronaldo,Schweinsteiger Bastian
+Media,North Korea,Dong Gyu Ri,Cristiano Ronaldo,Messi Lionel,Neymar
+Media,Northern Ireland,Fullerton Jackie,Cristiano Ronaldo,Mueller Thomas,Messi Lionel
+Media,Norway,Tjaernaas Lars,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Oman,Al-Barhi Saleh,Cristiano Ronaldo,Neuer Manuel,Lahm Philipp
+Media,Pakistan,Zafar Emad,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Media,Palestine,Iraqi Mohamad,Cristiano Ronaldo,Neuer Manuel,Hazard Eden
+Media,Panama,Estrada Campo Elias,Cristiano Ronaldo,Robben Arjen,Neuer Manuel
+Media,Paraguay,Da Rosa Ruben Dario,Cristiano Ronaldo,Messi Lionel,Rodriguez James
+Media,Peru,Salinas Carlos,Cristiano Ronaldo,Neuer Manuel,Rodriguez James
+Media,Philippines,Fenix Ryan,Cristiano Ronaldo,Neuer Manuel,Mueller Thomas
+Media,Poland,Iwanski Maciej,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Media,Portugal,Rita Joaquim,Cristiano Ronaldo,Robben Arjen,Di Maria Angel
+Media,Puerto Rico,Arce Luis Santiago,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Qatar,Alkhulaifi Majed,Cristiano Ronaldo,Neuer Manuel,Mueller Thomas
+Media,Romania,Rosu Emmanuel,Neuer Manuel,Cristiano Ronaldo,Courtois Thibaut
+Media,Russia,Kleshchev Konstantin,Cristiano Ronaldo,Robben Arjen,Mueller Thomas
+Media,Rwanda,Mugabe Bonnie,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Media,San Marino,Gorini Elia,Mueller Thomas,Cristiano Ronaldo,Robben Arjen
+Media,Saudi Arabia,Al.Solame Rjallah,Cristiano Ronaldo,Mueller Thomas,Messi Lionel
+Media,Scotland,Greechan John,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Senegal,Goloko Aliou,Cristiano Ronaldo,Neuer Manuel,Toure Yaya
+Media,Serbia,Novak Vladimir,Cristiano Ronaldo,Messi Lionel,Schweinsteiger Bastian
+Media,Seychelles,Govinden Gérard,Cristiano Ronaldo,Messi Lionel,Lahm Philipp
+Media,Sierra Leone,Fajah Barrie Mohamed,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Media,Singapore,Lim Gary,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Media,Slovakia,Surin Peter,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Slovenia,Stare Andrej,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Media,South Africa,Gleeson Mark,Lahm Philipp,Cristiano Ronaldo,Messi Lionel
+Media,South Korea,Wee Won Seok,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Spain,Relano Alfredo,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,St Kitts & Nevis,Thompson Merv-Ann,Cristiano Ronaldo,Messi Lionel,Neymar
+Media,St. Lucia,James Lawrence,Goetze Mario,Rodriguez James,Messi Lionel
+Media,Sudan,Abu Elgassim Muzamil,Cristiano Ronaldo,Mascherano Javier,Mueller Thomas
+Media,Suriname,Romeo Desney,Cristiano Ronaldo,Kroos Toni,Neuer Manuel
+Media,Swaziland,Dlamini Kenneth,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Media,Sweden,Ysten Henrik,Neuer Manuel,Cristiano Ronaldo,Lahm Philipp
+Media,Switzerland,Cerf Christophe,Cristiano Ronaldo,Neuer Manuel,Robben Arjen
+Media,Syria,Abou Shameh Louay,Cristiano Ronaldo,Di Maria Angel,Ibrahimovic Zlatan
+Media,Tahiti,Ollivier Luc,Pogba Paul,Rodriguez James,Neuer Manuel
+Media,Tajikistan,Buriev Alaveddine,Cristiano Ronaldo,Messi Lionel,Robben Arjen
+Media,Tanzania,Wambura Boniface,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Media,Thailand,Patoommawatana Urai,Neuer Manuel,Cristiano Ronaldo,Lahm Philipp
+Media,Togo,Ayena Mathias,Cristiano Ronaldo,Goetze Mario,Neuer Manuel
+Media,Trinidad and Tobago,Liburd Lasana,Cristiano Ronaldo,Di Maria Angel,Neymar
+Media,Tunisia,Dhaifallah Abdesslam,Neuer Manuel,Cristiano Ronaldo,Messi Lionel
+Media,Turkey,Manav Selçuk,Cristiano Ronaldo,Rodriguez James,Neuer Manuel
+Media,Turkmenistan,Vershinin Alexander,Messi Lionel,Neuer Manuel,Cristiano Ronaldo
+Media,Turks and Caicos Islands,Deo Faizool,Rodriguez James,Neuer Manuel,Lahm Philipp
+Media,Uganda,Musisi Kiyingi Fredrick,Cristiano Ronaldo,Neuer Manuel,Messi Lionel
+Media,Ukraine,Linnyk Igor,Mueller Thomas,Neuer Manuel,Cristiano Ronaldo
+Media,United Arab Emirates,Mouadhen Dafrallah,Neuer Manuel,Robben Arjen,Cristiano Ronaldo
+Media,Uruguay,Pineyrua Ricardo,Schweinsteiger Bastian,Robben Arjen,Messi Lionel
+Media,USA,Kennedy Paul,Cristiano Ronaldo,Messi Lionel,Lahm Philipp
+Media,Uzbekistan,Rtveladze Grigoriy,Cristiano Ronaldo,Robben Arjen,Mueller Thomas
+Media,Vanuatu,Nasse Raymond,Bale Gareth,Pogba Paul,Ibrahimovic Zlatan
+Media,Venezuela,Blavia Francisco,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Media,Vietnam,Anh Ngoc Truong,Cristiano Ronaldo,Messi Lionel,Neuer Manuel
+Media,Wales,Abbandonato Paul,Cristiano Ronaldo,Bale Gareth,Mueller Thomas
+Media,Yemen,Al Hababi Abdel,Cristiano Ronaldo,Messi Lionel,Ibrahimovic Zlatan
+Media,Zambia,Lungu Chapadongo,Cristiano Ronaldo,Messi Lionel,Mueller Thomas
+Media,Zimbabwe,Mabika Charles,Cristiano Ronaldo,Messi Lionel,Lahm Philipp
