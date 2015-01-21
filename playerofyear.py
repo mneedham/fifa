@@ -18,7 +18,7 @@ if __name__ == "__main__":
 
     pages_in_pdf = len(pdf.pq('LTPage'))
 
-    with open('votes.txt', 'w') as votesfile:
+    with open('votes.csv', 'w') as votesfile:
         writer = csv.writer(votesfile, delimiter=",")
         writer.writerow(["Role", "Country", "Voter", "FirstPlace", "SecondPlace", "ThirdPlace"])
         for page in range(1, pages_in_pdf + 1):
