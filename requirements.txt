@@ -1,0 +1,11 @@
+chardet==2.3.0
+cssselect==0.9.1
+lxml==3.4.1
+numpy==1.9.1
+pdfminer==20110515
+pdfquery==0.2.7
+pdftables==0.0.4
+pyquery==1.2.9
+requests==2.5.1
+roman==2.0.0
+wsgiref==0.1.2
